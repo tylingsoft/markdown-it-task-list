@@ -1,6 +1,6 @@
 {
   "name": "markdown-it-task-list",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Plugin for markdown-it, supports GitHub style task list.",
   "main": "src/index.bundle.js",
   "scripts": {
